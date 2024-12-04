@@ -1,0 +1,190 @@
+{
+  "layout": {
+    "sidebar": {
+      "profile": {
+        "profile": "Profile",
+        "roles": {
+          "admin": "Administrator",
+          "manager": "Manager",
+          "trainer": "Trainer",
+          "student": "Student"
+        },
+        "logout": "Exit"
+      },
+      "sidebar_links": {
+        "news": "NEWS",
+        "courses": "COURSES",
+        "programs": "PROGRAMS",
+        "groups": "GROUPS",
+        "users": "USERS",
+        "task_verification": "TASK VERIFICATION",
+        "learning": "LEARNING",
+        "glossary": "GLOSSARY",
+        "help": "Help"
+      },
+      "glossary": {
+        "add_term": "Add term",
+        "editing_term": "Editing term",
+        "term_name": "Term name",
+        "add": "Add"
+      }
+    }
+  },
+  "pages": {
+    "users": {
+      "page_title": "Users",
+      "licenses_available": "Licenses available",
+      "search_placeholder": "User's name, email or login",
+      "tooltip_titles": {
+        "create_user": "Create user",
+        "import_users": "Import users",
+        "export_users": "Export users",
+        "table": "Table",
+        "block": "Block"
+      },
+      "table": {
+        "header": {
+          "user": "User",
+          "last_visit": "Last visit",
+          "email": "Email",
+          "login": "Login",
+          "role": "Role",
+          "company": "Company",
+          "department": "Department",
+          "position": "Position",
+          "registered": "Registered"
+        },
+        "not_found_users": "There are no users matching your request"
+      },
+      "dropdown": {
+        "edit": "Edit",
+        "send_email": "Send an Email",
+        "restore_password": "Restore Password",
+        "delete": "Delete"
+      },
+      "modal": {
+        "password_recovery": "Password recovery",
+        "licenses": "Licenses",
+        "contact_technical_support_team": "To increase the license limit, you hav to contact with the technical support team",
+        "user_permanently_deleted": "User will be permanently deleted. Are you sure?",
+        "sent_request_to": "or send a request to",
+        "receive_email_notifications": "will receive an email notification",
+        "reset_password_specify_new_one": "that password has been reset and need to specify a new one"
+      },
+      "users_import": {
+        "users": "users",
+        "page_title": "User import",
+        "page_description": "Select a CSV file. Look at description below",
+        "no_file_selected": "No file selected",
+        "click_to_select_file": "Click to select a file or drag it to this field",
+        "import_algorithm": {
+          "section_title": "Import algorithm",
+          "template_file": "template file",
+          "create_your_own_file": "Create your own copy of a file",
+          "create_copy": "Create a copy",
+          "put_data_file_import": "Put the data in the file for import. To bind a user to a group, specify his ID",
+          "show_group_list": "Show group list",
+          "download_file_cv_format": "Download file in csv-format:",
+          "save_as": "Save as",
+          "cvs_file": "CSV-file",
+          "download_file_above_area": "Download the file in the area above",
+          "required_data": "Required data",
+          "maximum_size_kb": "Maximum file size is 500KB"
+        },
+        "types_description": {
+          "section_title": "Types description",
+          "choose_one_following_this": "The user role. You should choose one from the following",
+          "management_users_groups_programs": "management of users, groups, courses, programs, global statistics + opportunities for trainer and student",
+          "management_assignment_courses": "management of assignment to courses and programs, users, statistics of the group + the opportunities of the trainer and student",
+          "checking_assignments": "checking assignments + student opportunities",
+          "learning_courses_programs": "learning on courses and programs",
+          "put_and_send_email_address": "Put email address. An invitation to the platform will be sent to this email address.",
+          "for_ex": "For ex",
+          "e_g": "E.g",
+          "login_or_unique_userID": "Login or unique user ID. May be used to log in to the system. 3 to 30 characters",
+          "fullname_users": "Full name of the user. Filled completely, without cuts",
+          "company_name": "Company name",
+          "department_name": "Department name",
+          "user_post": "User post",
+          "any_additional_comment": "Any additional comment",
+          "manager_department_id": "manager_department_id",
+          "choose_group_manager": "Choose a group manager. Specify a group ID",
+          "student_department_id": "student_department_id",
+          "choose_student_group": "Choose a student for group. Specify a group ID",
+          "admin": "admin",
+          "manager": "manager",
+          "student": "student",
+          "teacher": "teacher",
+          "login": "login",
+          "company": "company",
+          "department": "department",
+          "position": "position",
+          "comment": "comment"
+        }
+      }
+    },
+    "courses": {
+      "section_add": "SECTION ADD"
+    },
+    "course": {
+      "description": "DESCRIPTION",
+      "trainers": "TRAINERS",
+      "students": "STUDENTS",
+      "reviews": "REVIEWS",
+      "theory": "Theory",
+      "material_name": "Material name",
+      "trainer_full_name": "Trainer full name",
+      "manage_trainers": "Manage trainers",
+      "points": "Points",
+      "efficiency": "Efficiency",
+      "medals": "Medals",
+      "retake": "Retake",
+      "all_groups": "All groups",
+      "all_statuses": "All Statuses",
+      "student_management": "Student management",
+      "reposts_on_the_course": "Reposts on the course",
+      "student_full_name": "Student full name",
+      "retakes": "Retakes",
+      "assigned": "Assigned",
+      "started": "Started",
+      "finished": "Finished",
+      "deadline": "Deadline",
+      "view": "View",
+      "accept_course": "Accept course",
+      "block": "Block",
+      "remove_from_the_course": "Remove from the course",
+      "overall": "Overall",
+      "results": "Results",
+      "search_name_email_login_company_department_position": "Search (Name, email, login, company, department, position",
+      "available": "Available",
+      "backend": "BACKEND",
+      "text": "Text",
+      "web_page": "Web page",
+      "no_reviews": "No Reviews",
+      "no_reviews_description": "No one has reviewed this course yet"
+    }
+  },
+  "common": {
+    "restore": "restore",
+    "cancel": "cancel",
+    "user": "User",
+    "delete": "delete",
+    "online": "Online",
+    "ok": "ok",
+    "not_found": "Not Found",
+    "open": "open",
+    "file": "file",
+    "full_name": "fullname",
+    "email": "email",
+    "role": "role",
+    "back": "back",
+    "roles": {
+      "admin": "Administrator",
+      "manager": "Manager",
+      "trainer": "Trainer",
+      "student": "Student"
+    },
+    "edit": "Edit",
+    "save": "Save"
+  }
+}

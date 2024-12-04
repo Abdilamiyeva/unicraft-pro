@@ -1,0 +1,7 @@
+export {LoginPage} from './auth'
+export {NewsPage} from './news'
+export {ProgramsPage} from './programs'
+export {RestorePasswordPage} from './auth'
+export {UsersPage} from './users'
+export {ProfilePage} from './profile'
+export {CoursePage} from './course'
